@@ -1,5 +1,5 @@
 # AndrewNG-Coursera
-<h1>Andrew NG Machine Learning - Coursera Course</h1>
+<h1><a href = 'https://www.coursera.org/learn/machine-learning'>Andrew NG Machine Learning - Coursera Course</a></h1>
 <h3>Syllabus</h3> 
 1.<b> Introduction</b><br>
 2.<b> Linear Regression with One Variable</b><br>
