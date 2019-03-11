@@ -2,6 +2,26 @@
 <h1>Andrew NG Machine Learning - Coursera Course</h1>
 <h3>Syllabus</h3> 
 1.<b> Introduction</b><br>
+2.<b> Linear Regression with One Variable</b><br>
+3.<b> Linear Algebra Review</b><br>
+4.<b> Linear Regression with Multiple Variables</b><br>
+5.<b> Octave/Matlab Tutorial</b><br>
+6.<b> Logistic Regression</b><br>
+7.<b> Regularization</b><br>
+8.<b> Neural Networks: Representation</b><br>
+9.<b> Neural Networks: Learning</b><br>
+10.<b> Advice for Applying Machine Learning</b><br>
+11.<b> Machine Learning System Design</b><br>
+12.<b> Support Vector Machines</b><br>
+13.<b> Unsupervised Learning</b><br>
+14.<b> Dimensionality Reduction</b><br>
+15.<b> Anomaly Detection</b><br>
+16.<b> Recommender Systems</b><br>
+17.<b> Large Scale Machine Learning</b><br>
+18.<b> Application Example: Photo OCR</b><br>
+
+<h3>Full Syllabus</h3> 
+1.<b> Introduction</b><br>
 Welcome to Machine Learning!<br>
 Welcome<br>
 What is Machine Learning?<br>
