@@ -1,6 +1,7 @@
 # AndrewNG-Coursera
 <h1><a href = 'https://www.coursera.org/learn/machine-learning'>Andrew NG Machine Learning - Coursera Course</a></h1>
 <h4><a href='https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN'>Complete Tutorials Link Courera</a></h4>
+https://www.coursera.org/learn/machine-learning/home/week/5
 <h3>Syllabus</h3> 
 1.<b> Introduction</b><br>
 2.<b> Linear Regression with One Variable</b><br>
